@@ -17,9 +17,5 @@ __pycache__/
 # PDF files
 # -----------------------
 *.pdf
-
-# -----------------------
-# Optional (recommended)
-# -----------------------
 .ipynb_checkpoints/
 .DS_Store
