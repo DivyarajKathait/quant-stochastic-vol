@@ -1,0 +1,25 @@
+# -----------------------
+# Virtual environments
+# -----------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------
+# Python cache / bytecode
+# -----------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------
+# PDF files
+# -----------------------
+*.pdf
+
+# -----------------------
+# Optional (recommended)
+# -----------------------
+.ipynb_checkpoints/
+.DS_Store
